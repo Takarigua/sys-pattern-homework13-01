@@ -23,9 +23,11 @@
 
 ### Ответ
 
-1. ![services]()
+1. Список сервисов:
 
-2.
+![services](https://github.com/Takarigua/sys-pattern-homework13-01/blob/8792023af11a68ee541f6256364582950e9261a9/img/Task%201-1.png)
+
+3. Уязвимости:
 Уязвимость в vsftpd 2.3.4 (FTP):
 CVE-2011-2523: Backdoor в vsftpd 2.3.4, позволяющий удалённое выполнение кода.
 
